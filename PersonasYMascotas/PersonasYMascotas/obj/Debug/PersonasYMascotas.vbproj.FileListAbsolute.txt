@@ -1,0 +1,28 @@
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.exe.config
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.exe
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.pdb
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.xml
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.vbprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.FormMascotas.resources
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.FormPyM.resources
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.Resources.resources
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.exe
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.xml
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.pdb
+C:\Users\Alumno\Desktop\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.FormInicio.resources
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.exe.config
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.exe
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.pdb
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\bin\Debug\PersonasYMascotas.xml
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.vbprojAssemblyReference.cache
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.FormInicio.resources
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.FormMascotas.resources
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.FormPyM.resources
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.Resources.resources
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.vbproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.exe
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.xml
+C:\Users\Alumno\Downloads\App-Desktop-DiarioAdiario-master\App-Desktop-DiarioAdiario-master\PersonasYMascotas (2)\PersonasYMascotas\PersonasYMascotas\obj\Debug\PersonasYMascotas.pdb
